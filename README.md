@@ -1,9 +1,9 @@
 <p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
+    <img height="100" src="https://github.com/joshep422/portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
 </p>
 
 ---
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+# [Built Portfolio With GitHub ](https://github.com/joshep422/portfolio)
 
 ---
 
@@ -13,11 +13,7 @@
 
 ---
 
-# Demo :movie_camera:
-
-![](./public/image/screen.png)
-
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://joshep422.netlify.app/).
 
 ---
 
@@ -109,7 +105,7 @@ NEXT_PUBLIC_RECAPTCHA_SECRET_KEY = # For captcha verification on contact form
 NEXT_PUBLIC_RECAPTCHA_SITE_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/joshep422/portfolio/tree/main/utils/data).
 
 Eg:
 
@@ -119,16 +115,15 @@ export const personalData = {
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
   description: "My name is Milo Crona....",
-  email: "abusaid7388@gmail.com",
   phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  address: "Kenaro, Auberon",
+  github: "https://github.com/joshep422",
+  facebook: "https://www.facebook.com/joshep422.riyaz/",
+  linkedIn: "https://www.linkedin.com/in/joshep422-bd/",
+  twitter: "https://twitter.com/joshep422",
+  stackOverflow: "https://stackoverflow.com/users/16840768/joshep422",
+  leetcode: "https://leetcode.com/joshep422/",
+  devUsername: "joshep422",
   resume: "...",
 };
 ```
